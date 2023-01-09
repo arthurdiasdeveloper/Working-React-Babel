@@ -1,0 +1,7 @@
+//configuracoes que precisamos dependendo do nossso projeto
+{
+    "presets":[
+        "@babel/preset-env",
+        [ "@babel/preset-react",{"runtime": "automatic"}]
+    ]
+}
